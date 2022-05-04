@@ -41,6 +41,6 @@ If you want some information about calculation and models :
 - Ada Boost : https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/
 - XGBoost : https://www.datacorner.fr/xgboost/
 
-For Information about how to use MOdel with python I used this documentation :
+For Information about how to use Models with python, I used this documentation :
 - Classifiers from SciKit learn : https://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble
 - XGBoost : https://xgboost.readthedocs.io/en/stable/
