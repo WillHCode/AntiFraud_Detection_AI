@@ -4,7 +4,7 @@ This AI was a part of my second year Bachelor degree project.
 The goal is to create an anti bank fraud system.
 In the final project we will use a personal database so for the training we want a dataset without precomputed variables.
 One advantage of a "blank" dataset is that it can be easily adapted with another dataset.
-So we can create a new trainable and testable dataset pretty easily with only basics transactions informations.
+So we can create a new trainable and testable dataset with only basics transactions informations.
 
 ## Variables
 Following some personnal research, we need to define some rules to detect a fraud, I selected 4 of them.
